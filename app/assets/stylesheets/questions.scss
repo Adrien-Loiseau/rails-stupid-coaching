@@ -1,0 +1,30 @@
+// Place all the styles related to the Questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+$gray: #F4F4F4;
+
+body {
+  background: $gray;
+}
+
+.return_question {
+  display: flex;
+  border: solid;
+  border-color: lightblue;
+  margin-bottom: 30px;
+  padding: 20px;
+  border-radius: 50px;
+}
+
+.answer {
+  display: flex;
+  border: solid;
+  border-color: lightblue;
+  margin-bottom: 30px;
+  padding: 20px;
+  border-radius: 50px;
+}
+
+.link{
+}
